@@ -1,6 +1,8 @@
 ## Hello, I'm Fidel Barasa 👋
 Welcome to my GitHub profile!
 
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaepapi&label=Profile%20views&color=0e75b6&style=flat" alt="swaepapi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swaepapi" alt="swaepapi" /></a> </p>
