@@ -1,7 +1,7 @@
 ## Hello, I'm Fidel Barasa 👋
 Welcome to my GitHub profile!
 
-<img alt="Coder GIF" height=300 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaepapi&label=Profile%20views&color=0e75b6&style=flat" alt="swaepapi" /> </p>
 
