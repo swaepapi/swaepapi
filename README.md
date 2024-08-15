@@ -42,8 +42,15 @@
 ## 💬 Ask Me About
 - Anything tech-related! I'm always happy to help and share what I know.
 
-## 📫 Connect with Me
-- Feel free to reach out through my social media channels.
+---
+
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=swaepapi&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+---
 
 ## 
  
