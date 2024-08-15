@@ -16,6 +16,13 @@
 
 - I'm a passionate junior developer with a keen interest in building efficient and scalable web applications. My journey in tech started with a curiosity for how things work behind the scenes, and it's been an exciting adventure ever since.
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/Fidelpapii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zenithkelvin" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/fidel-barasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="njuguna kelvin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/swaepapii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zenith.vin" height="30" width="40" /></a>
+</p>
+
 ## 🌱 Current Learning
 - **Backend Development**: Deepening my knowledge in backend technologies.
 - **Python**: Enhancing my skills and exploring its vast ecosystem.
