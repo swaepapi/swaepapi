@@ -3,7 +3,7 @@
 </p>
 
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+<img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaepapi&label=Profile%20views&color=0e75b6&style=flat" alt="swaepapi" /> </p>
